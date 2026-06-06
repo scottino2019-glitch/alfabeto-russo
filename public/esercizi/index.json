@@ -1,0 +1,16 @@
+{
+  "datasets": [
+    {
+      "id": "ext1",
+      "fileName": "colori.json",
+      "title": "I Colori in Russo 🎨",
+      "description": "Una splendida sfida sui colori fondamentali scritti in caratteri cirillici con traduzioni e pronunce."
+    },
+    {
+      "id": "ext2",
+      "fileName": "animali.json",
+      "title": "Gli Animali Domestici 🐕",
+      "description": "Espandi il tuo lessico russo con i nomi degli animali reali della vita quotidiana."
+    }
+  ]
+}
