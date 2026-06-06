@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-serif: "Lora", Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Custom fade-ins and subtle card animations if motion/react is rendering */
+@keyframes pulseGently {
+  0%, 100% { opacity: 0.95; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.02); }
+}
+
+.pulsing-accent {
+  animation: pulseGently 3s ease-in-out infinite;
+}
+
+/* Touch targets and pristine active selections */
+button, [role="button"] {
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+  background-color: #FFFBEB; /* Creamy amber */
+  color: #1f2937; /* Gray 800 for high-contrast readability */
+  -webkit-font-smoothing: antialiased;
+}
