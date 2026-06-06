@@ -1,0 +1,6 @@
+{
+  "name": "Impara il Russo",
+  "description": "Applicazione interattiva per l'apprendimento della lingua russa con quiz rapidi, completamento di frasi, trascinamento e mini-test giornalieri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
