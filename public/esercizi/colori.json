@@ -1,0 +1,50 @@
+{
+  "title": "I Colori in Russo 🎨",
+  "questions": [
+    {
+      "type": "quiz",
+      "questionText": "Come si dice il colore 'Rosso' in russo?",
+      "options": ["Синий", "Красный", "Зелёный", "Жёлтый"],
+      "correctOptionIndex": 1,
+      "pronunciation": "Krásny",
+      "translation": "Rosso",
+      "explanation": "'Красный' significa rosso. Curiosità: in russo antico la parola antico-slava 'krasny' significava sia 'rosso' sia 'bello' (da cui la Piazza Rossa)."
+    },
+    {
+      "type": "quiz",
+      "questionText": "Cosa significa il colore 'Белый'?",
+      "options": ["Bianco", "Nero", "Rosa", "Marrone"],
+      "correctOptionIndex": 0,
+      "pronunciation": "Bely",
+      "translation": "Bianco",
+      "explanation": "'Белый' (Bely) significa bianco. Ad esempio, il mare bianco si traduce in 'Белое море'."
+    },
+    {
+      "type": "quiz",
+      "questionText": "Quale parola corrisponde al colore 'Nero'?",
+      "options": ["Голубой", "Серый", "Чёрный", "Розовый"],
+      "correctOptionIndex": 2,
+      "pronunciation": "Chyorny",
+      "translation": "Nero",
+      "explanation": "'Чёрный' (Chyorny) significa nero. Il Mar Nero è chiamato 'Чёрное море'."
+    },
+    {
+      "type": "completion",
+      "sentenceWithBlank": "Небо сегодня ___.",
+      "correctAnswer": "синее",
+      "options": ["синее", "зелёное", "белая", "красный"],
+      "translation": "Il cielo è azzurro oggi.",
+      "pronunciation": "Nyebo sevodnya sineye.",
+      "explanation": "Poiché 'Небо' (Cielo) è neutro, richiede la desinenza neutra dell'aggettivo di colore: 'синее' (azzurro/blu)."
+    },
+    {
+      "type": "completion",
+      "sentenceWithBlank": "Трава всегда ___.",
+      "correctAnswer": "зелёная",
+      "options": ["зелёная", "жёлтый", "чёрное", "белый"],
+      "translation": "L'erba è sempre verde.",
+      "pronunciation": "Trava vsegda zelyonaya.",
+      "explanation": "La parola 'Трава' (Erba) è femminile singolare, quindi l'aggettivo 'зелёный' prende la desinenza femminile 'зелёная'."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Gli Animali Domestici 🐕",
+  "questions": [
+    {
+      "type": "quiz",
+      "questionText": "Come si dice 'Cane' in lingua russa?",
+      "options": ["Кошка", "Собака", "Птица", "Рыба"],
+      "correctOptionIndex": 1,
+      "pronunciation": "Sobáka",
+      "translation": "Cane",
+      "explanation": "'Собака' (Sobaka) significa cane ed è un sostantivo di genere femminile."
+    },
+    {
+      "type": "quiz",
+      "questionText": "Qual è il significato della parola 'Кошка'?",
+      "options": ["Mucca", "Gatto", "Uccellino", "Cavallo"],
+      "correctOptionIndex": 1,
+      "pronunciation": "Kóshka",
+      "translation": "Gatto",
+      "explanation": "'Кошка' (Koshka) indica il gatto domestico comune (femmina, o generico). Il maschio si direbbe invece 'Кот' (Kot)."
+    },
+    {
+      "type": "quiz",
+      "questionText": "Cosa significa la parola 'Птица'?",
+      "options": ["Rana", "Pesce", "Uccello", "Orso"],
+      "correctOptionIndex": 2,
+      "pronunciation": "Ptítsa",
+      "translation": "Uccello",
+      "explanation": "'Птица' (Ptitsa) significa uccello, ad esempio 'Синяя птица' (L'uccello azzurro)."
+    },
+    {
+      "type": "completion",
+      "sentenceWithBlank": "У меня дома живёт ___.",
+      "correctAnswer": "собака",
+      "options": ["собака", "хорошо", "город", "метро"],
+      "translation": "A casa mia vive un cane.",
+      "pronunciation": "U menya doma zhivyot sobaka.",
+      "explanation": "La frase nominale 'У меня дома живёт ...' regge il caso Nominativo come soggetto dell'azione, quindi 'собака' mantiene la forma dizionario."
+    },
+    {
+      "type": "completion",
+      "sentenceWithBlank": "Золотая ___ плавает в аквариуме.",
+      "correctAnswer": "рыбка",
+      "options": ["рыбка", "кошка", "друг", "молоко"],
+      "translation": "Il pesciolino rosso nuota nell'acquario.",
+      "pronunciation": "Zolotaya rybka plavaet v akvariume.",
+      "explanation": "'Золотая рыбка' significa letteralmente pesciolino d'oro, ed è la celeberrima figura delle fiabe di Puškin."
+    }
+  ]
+}
